@@ -3,7 +3,8 @@
 A fast, clean, open-source launcher for **Minecraft: Java Edition**.
 Швидкий, чистий лаунчер з відкритим кодом для **Minecraft: Java Edition**.
 
-![Play](docs/9-play-progress.png)
+![Play](<img width="1180" height="740" alt="9-play-progress" src="https://github.com/user-attachments/assets/4dfc2085-417e-45e1-8abd-36c579467e11" />
+)
 
 ## Features
 - **Builds (instances)** with their own folders: Vanilla, Fabric, Quilt, Forge, NeoForge
@@ -20,15 +21,22 @@ A fast, clean, open-source launcher for **Minecraft: Java Edition**.
 
 | Builds | Mod browser |
 |---|---|
-| ![Builds](docs/2-builds.png) | ![Browser](docs/5-browser.png) |
+| ![Builds](<img width="1180" height="740" alt="2-builds (1)" src="https://github.com/user-attachments/assets/344a863f-36bd-4c74-b5d5-ba1ba38782f7" />
+) | ![Browser](<img width="1180" height="740" alt="5-browser (1)" src="https://github.com/user-attachments/assets/d5286ced-606f-44b7-b880-41bcf5b910dd" />
+) |
 
 | Friends | Friend profile |
 |---|---|
-| ![Friends](docs/6-friends.png) | ![Profile](docs/6c-profile.png) |
+| ![Friends](<img width="1180" height="740" alt="6-friends (1)" src="https://github.com/user-attachments/assets/05ef00de-3233-42ef-a2c8-190c2596da09" />
+) | ![Profile](<img width="1180" height="740" alt="6c-profile (1)" src="https://github.com/user-attachments/assets/60ce850a-0826-412b-9116-0372e2e6415f" />
+) |
 
 | Avatar | Servers |
 |---|---|
-| ![Avatar](docs/7-avatar.png) | ![Servers](docs/8b-servers.png) |
+| ![Avatar](<img width="1180" height="740" alt="7-avatar (1)" src="https://github.com/user-attachments/assets/ff9ebb22-10b7-4d0c-8b89-f1250cb8ccd9" />![Uploading 6-friends (1).png…]()
+
+) | ![Servers](<img width="1180" height="740" alt="8b-servers (2)" src="https://github.com/user-attachments/assets/d9d2401a-869c-49d5-b88b-1873d54598f1" />
+) |
 
 ## Install
 Download **MobLauncher-Setup-Offline.exe** from the [Releases](../../releases) page and run it.
