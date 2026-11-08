@@ -1,0 +1,14 @@
+{
+  "name": "moblauncher-friends-server",
+  "version": "1.0.0",
+  "description": "MobLauncher friends / chat / voice-call signalling server",
+  "main": "server.js",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test --test-timeout=60000 test/e2e.test.js"
+  },
+  "dependencies": { "ws": "^8.18.0" }
+}
